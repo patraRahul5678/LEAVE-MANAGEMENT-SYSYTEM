@@ -8,7 +8,7 @@ A full-stack Leave Management System built using the MERN stack that streamlines
 
 ## 🌐 Live Demo
 
-👉 **[View Live Application](https://your-deployed-url.com)**
+👉 **[View Live Application](https://leave-management-sysytem-6.onrender.com)**
 
 > Replace the above URL with your deployed application link.
 
@@ -202,8 +202,8 @@ npm run dev
 
 | Service     | URL                   |
 | ----------- | --------------------- |
-| Frontend    | http://localhost:3000 |
-| Backend API | http://localhost:5000 |
+| Frontend    | https://leave-management-sysytem-6.onrender.com |
+| Backend API | https://leave-management-sysytem-4.onrender.com |
 
 ---
 
