@@ -2,15 +2,11 @@
 
 A full-stack Leave Management System built using the MERN stack that streamlines the process of applying, tracking, approving, and managing employee leave requests through role-based access control.
 
-> **Developed by Rahul Patra to strengthen my understanding of full-stack development, authentication, authorization, and CRUD operations using the MERN stack.**
-
 ---
 
 ## 🌐 Live Demo
 
 👉 **[View Live Application](https://leave-management-sysytem-6.onrender.com)**
-
-> Replace the above URL with your deployed application link.
 
 ---
 
